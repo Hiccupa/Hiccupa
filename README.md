@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiccupa.
 - 👀 I’m an ENI student at BITS PILANI.
 - 🌱 I’m currently learning C++, Flutter.
-- 🚀 Reach me at ayazh864@gmail.com
+- 📫 Reach me at ayazh864@gmail.com.
 
 <!---
 Hiccupa/Hiccupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
